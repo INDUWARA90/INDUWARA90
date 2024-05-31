@@ -21,6 +21,14 @@
 
   <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
   
-  </td>
+</td>
 </tr>
 </table>
+<hr>
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/induwara-vishwakantha-714b942b8/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="induwaravishwakantha" height="50" width="50" /></a>
+<a href="https://web.facebook.com/induwara.vishwakantha.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="induwaravishwakantha" height="50" width="50" /></a>
+<a href="https://www.instagram.com/induwara_vishwakantha/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="induwaravishwakantha" height="50" width="50" /></a>
+</p>
+<hr>
