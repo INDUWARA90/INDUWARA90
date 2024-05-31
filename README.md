@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Induwara Vishwakantha</h1>
-<h3 align="center">Tomorrow is another chance to make things better</h3>
+<h3 align="center">Passionated IT Student | Expect to do Something Good Using New Technologies</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=INDUWARA90&label=Profile%20views&color=0e75b6&style=flat" alt="INDUWARA90" /> </p>
 
 <table align="center">
