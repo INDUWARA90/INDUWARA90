@@ -7,11 +7,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Java and javaScript**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 🧑‍🎓 I’m an Undergraduate at **University Of Ruhuna**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me &nbsp;&nbsp;&nbsp;&nbsp;**induwaravishwakantha90@gmail.com**
   
