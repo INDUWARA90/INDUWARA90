@@ -72,5 +72,11 @@
         <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> 
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/> 
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/> 
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/>
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/>
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Netlify-Light.svg" alt="python" width="50" height="50"/>
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="50" height="50"/>
+        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Light.svg" alt="python" width="50" height="50"/>
+  
   </p>
 <hr>
